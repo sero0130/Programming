@@ -13,5 +13,22 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Assignment">
+      <UniqueIdentifier>{f6a91502-a7f4-4b64-8329-268cecfe4c77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Example">
+      <UniqueIdentifier>{e89e5646-2ecb-4fca-997f-c39bb59140c4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Assignment02.c">
+      <Filter>소스 파일\Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment01.c">
+      <Filter>소스 파일\Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="Hello World.c">
+      <Filter>소스 파일\Example</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

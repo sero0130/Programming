@@ -13,28 +13,22 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\In class lab">
-      <UniqueIdentifier>{4f30b54b-45ce-437e-8038-c1686de8f047}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Assignment">
-      <UniqueIdentifier>{c84bc7e8-6b6d-4848-9e24-31d5bec2400b}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.c">
-      <Filter>소스 파일\In class lab</Filter>
-    </ClCompile>
-    <ClCompile Include="Assignment01.c">
-      <Filter>소스 파일\Assignment</Filter>
-    </ClCompile>
-    <ClCompile Include="Assignment02.c">
-      <Filter>소스 파일\Assignment</Filter>
-    </ClCompile>
     <ClCompile Include="Assignment05.c">
-      <Filter>소스 파일\Assignment</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Assignment07.c">
-      <Filter>소스 파일\Assignment</Filter>
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment02.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

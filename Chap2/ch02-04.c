@@ -1,3 +1,8 @@
+//202511220 박찬웅
+//몸무게를 입력받고 출력하는 프로그램
+//2025.03.20
+
+
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>

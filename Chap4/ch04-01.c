@@ -21,8 +21,8 @@ void kineticenergy(void)
 
 	scanf("%lf %lf", &mass, &velocity);
 	energy = 0.5 * mass * velocity * velocity;
+	printf("%.2lf\n", energy);
 	
-	printf("%lf\n", energy);
 
 
 	return;
